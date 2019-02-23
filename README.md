@@ -15,3 +15,8 @@ The following libraries were used in the project:
  - Matplotlib
  - Random
 
+
+###Analysis
+
+The analysis done on this data set is both mathmatical and categorical.  The data set had minimal cleaning done and most of the work
+was statistical analysis.
